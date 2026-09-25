@@ -20,8 +20,7 @@
 3. 复制下方完整脚本，粘贴进控制台，回车运行
 4. 脚本会自动把关键词一个个添加到「隐藏的字词」列表中，期间请勿关闭页面
 
-![Uploading file-3d2d0a7df3a0f9ae1cfd4518b6085ae8.png…]()
-
+<img width="1172" height="942" alt="file-3d2d0a7df3a0f9ae1cfd4518b6085ae8" src="https://github.com/user-attachments/assets/5d7d7dd1-d9b6-4a91-b445-3bfd8f338885" />
 
 ## 风控说明（重要）
 
